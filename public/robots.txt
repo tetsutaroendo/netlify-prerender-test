@@ -1,2 +1,5 @@
+User-Agent: Slackbot
+Disallow:
+
 User-Agent: *
 Disallow: /
