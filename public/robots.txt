@@ -1,5 +1,11 @@
 User-Agent: Slackbot
 Disallow:
 
+User-Agent: Twitterbot
+Disallow:
+
+User-Agent: Facebot
+Disallow:
+
 User-Agent: *
 Disallow: /
